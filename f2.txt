@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi 
 good morning
+=======
+hi
+>>>>>>> ceee76703ddd840b5d358d2bef0604a6d7141b91
